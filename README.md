@@ -19,7 +19,7 @@ Shred all your paper notes and start searching! :tada:
 
 
 
-## Collections
+## Cores
 
 Potential collections (toggle-able before search):
 
